@@ -1,0 +1,1 @@
+# search-hash-collision
